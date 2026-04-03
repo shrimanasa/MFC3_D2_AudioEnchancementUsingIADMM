@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://upload.wikimedia.org/wikipedia/en/thumb/8/8a/Amrita_Vishwa_Vidyapeetham_Logo.svg/512px-Amrita_Vishwa_Vidyapeetham_Logo.svg.png" width="300" alt="Amrita Vishwa Vidyapeetham">
+![Amrita Vishwa Vidyapeetham Logo](./logo.png)
   
 # Speech Enhancement System (IADMM-NMF)
 
