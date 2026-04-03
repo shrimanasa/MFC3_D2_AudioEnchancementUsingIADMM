@@ -1,6 +1,6 @@
 <div align="center">
   
-# Unsupervised Speech Enhancement System (IADMM-NMF)
+# Speech Enhancement System (IADMM-NMF)
 
 [![Python](https://img.shields.io/badge/Python-3.x-blue.svg)](https://python.org)
 [![Numpy](https://img.shields.io/badge/Numpy-Optimized-yellow.svg)](https://numpy.org)
